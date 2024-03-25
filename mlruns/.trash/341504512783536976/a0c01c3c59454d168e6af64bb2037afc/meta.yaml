@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/341504512783536976/a0c01c3c59454d168e6af64bb2037afc/artifacts
+deleted_time: 1708409175570
+end_time: 1708393433510
+entry_point_name: ''
+experiment_id: '341504512783536976'
+lifecycle_stage: deleted
+run_id: a0c01c3c59454d168e6af64bb2037afc
+run_name: polite-snail-916
+run_uuid: a0c01c3c59454d168e6af64bb2037afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708393428218
+status: 4
+tags: []
+user_id: user

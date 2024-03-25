@@ -1,0 +1,10 @@
+digest: adac0566
+name: dataset
+profile: '{"features_shape": [59875, 82], "features_size": 4909750, "features_nbytes":
+  39278000, "targets_shape": [59875], "targets_size": 59875, "targets_nbytes": 479000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 82]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "c:\\Workspace\\MLOps_demo\\myenv\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,12 @@
+artifact_location: mlflow-artifacts:/603970908344956653
+creation_time: 1708049811127
+experiment_id: '603970908344956653'
+last_update_time: 1708049915325
+lifecycle_stage: deleted
+name: test_project
+tags:
+  mlflow.note.content: 'khahn testPM : 홍길동, AI DEV : 안광혁2024.02.16 ~ '
+  project_name: ml_ops_test
+  project_quarter: Q1-2024
+  store_dept: produce
+  team: stores-ml

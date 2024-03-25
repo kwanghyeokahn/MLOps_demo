@@ -1,0 +1,9 @@
+digest: cbe05109
+name: dataset
+profile: '{"features_shape": [299371], "features_size": 299371, "features_nbytes":
+  2394968}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "c:\\Workspace\\MLOps_demo\\myenv\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

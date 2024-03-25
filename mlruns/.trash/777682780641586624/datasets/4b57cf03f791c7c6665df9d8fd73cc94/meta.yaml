@@ -1,0 +1,67 @@
+digest: 9f6b2018
+name: dataset
+profile: '{"num_rows": 59875, "num_elements": 4969625}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": ["440T01_Al"], "required":
+  true}, {"type": "double", "name": ["440T01_B"], "required": true}, {"type": "double",
+  "name": ["440T01_K"], "required": true}, {"type": "double", "name": ["440T01_Li"],
+  "required": true}, {"type": "double", "name": ["440T01_Na"], "required": true},
+  {"type": "double", "name": ["440T01_P"], "required": true}, {"type": "double", "name":
+  ["440T01_S"], "required": true}, {"type": "double", "name": ["440T01_Si"], "required":
+  true}, {"type": "double", "name": ["442T01_B"], "required": true}, {"type": "double",
+  "name": ["442T01_K"], "required": true}, {"type": "double", "name": ["442T01_Li"],
+  "required": true}, {"type": "double", "name": ["442T01_Na"], "required": true},
+  {"type": "double", "name": ["442T01_P"], "required": true}, {"type": "double", "name":
+  ["442T01_S"], "required": true}, {"type": "double", "name": ["442T01_Si"], "required":
+  true}, {"type": "double", "name": ["442T04_B"], "required": true}, {"type": "double",
+  "name": ["442T04_Cu"], "required": true}, {"type": "double", "name": ["442T04_K"],
+  "required": true}, {"type": "double", "name": ["442T04_Li"], "required": true},
+  {"type": "double", "name": ["442T04_Na"], "required": true}, {"type": "double",
+  "name": ["442T04_S"], "required": true}, {"type": "double", "name": ["442T04_Si"],
+  "required": true}, {"type": "double", "name": ["442T04_Zn"], "required": true},
+  {"type": "double", "name": ["442T05_Ca"], "required": true}, {"type": "double",
+  "name": ["442T05_K"], "required": true}, {"type": "double", "name": ["442T05_Na"],
+  "required": true}, {"type": "double", "name": ["442T05_Si"], "required": true},
+  {"type": "double", "name": ["442T11_B"], "required": true}, {"type": "double", "name":
+  ["442T11_K"], "required": true}, {"type": "double", "name": ["442T11_Li"], "required":
+  true}, {"type": "double", "name": ["442T11_Na"], "required": true}, {"type": "double",
+  "name": ["442T11_P"], "required": true}, {"type": "double", "name": ["442T11_S"],
+  "required": true}, {"type": "double", "name": ["442T11_Si"], "required": true},
+  {"type": "double", "name": ["442T12_Ca"], "required": true}, {"type": "double",
+  "name": ["442T12_K"], "required": true}, {"type": "double", "name": ["442T12_Li"],
+  "required": true}, {"type": "double", "name": ["442T12_Na"], "required": true},
+  {"type": "double", "name": ["442T12_S"], "required": true}, {"type": "double", "name":
+  ["442T12_Si"], "required": true}, {"type": "double", "name": ["442T13_Al"], "required":
+  true}, {"type": "double", "name": ["442T13_Ca"], "required": true}, {"type": "double",
+  "name": ["442T13_K"], "required": true}, {"type": "double", "name": ["442T13_Li"],
+  "required": true}, {"type": "double", "name": ["442T13_Na"], "required": true},
+  {"type": "double", "name": ["442T13_S"], "required": true}, {"type": "double", "name":
+  ["442T13_Si"], "required": true}, {"type": "double", "name": ["442T22_Ca"], "required":
+  true}, {"type": "double", "name": ["442T22_K"], "required": true}, {"type": "double",
+  "name": ["442T22_Li"], "required": true}, {"type": "double", "name": ["442T22_Na"],
+  "required": true}, {"type": "double", "name": ["442T22_S"], "required": true}, {"type":
+  "double", "name": ["442T22_Si"], "required": true}, {"type": "double", "name": ["442T23_Ca"],
+  "required": true}, {"type": "double", "name": ["442T23_K"], "required": true}, {"type":
+  "double", "name": ["442T23_Li"], "required": true}, {"type": "double", "name": ["442T23_Na"],
+  "required": true}, {"type": "double", "name": ["442T23_S"], "required": true}, {"type":
+  "double", "name": ["442T23_Si"], "required": true}, {"type": "double", "name": ["mR_CT_43101_PV"],
+  "required": true}, {"type": "double", "name": ["mR_CT_44201_PV"], "required": true},
+  {"type": "double", "name": ["mR_CT_44202_PV"], "required": true}, {"type": "double",
+  "name": ["mR_CT_44203_PV"], "required": true}, {"type": "double", "name": ["mR_CT_44205_PV"],
+  "required": true}, {"type": "double", "name": ["mR_CT_44206_PV"], "required": true},
+  {"type": "double", "name": ["mR_CT_44207_PV"], "required": true}, {"type": "double",
+  "name": ["mR_CT_44209_PV"], "required": true}, {"type": "double", "name": ["mR_CT_44210_PV"],
+  "required": true}, {"type": "double", "name": ["mR_CT_44211_PV"], "required": true},
+  {"type": "double", "name": ["mR_FT_44201_PV"], "required": true}, {"type": "double",
+  "name": ["mR_FT_44202_PV"], "required": true}, {"type": "double", "name": ["mR_FT_44203_PV"],
+  "required": true}, {"type": "double", "name": ["mR_FT_44204_PV"], "required": true},
+  {"type": "double", "name": ["mR_FT_44209_PV"], "required": true}, {"type": "double",
+  "name": ["mR_FT_44210_PV"], "required": true}, {"type": "double", "name": ["mR_FT_44211_PV"],
+  "required": true}, {"type": "double", "name": ["mR_FT_44214_PV"], "required": true},
+  {"type": "double", "name": ["mR_FT_44215_PV"], "required": true}, {"type": "double",
+  "name": ["mR_FT_44216_PV"], "required": true}, {"type": "double", "name": ["mR_FT_44217_PV"],
+  "required": true}, {"type": "double", "name": ["mR_FT_44218_PV"], "required": true},
+  {"type": "double", "name": ["mR_PH_43102_PV"], "required": true}, {"type": "double",
+  "name": ["442T06_Li"], "required": true}]}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "c:\\Workspace\\MLOps_demo\\myenv\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

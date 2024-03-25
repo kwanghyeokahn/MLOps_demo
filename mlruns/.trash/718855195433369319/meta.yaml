@@ -1,0 +1,12 @@
+artifact_location: mlflow-artifacts:/718855195433369319
+creation_time: 1708050235152
+experiment_id: '718855195433369319'
+last_update_time: 1708050260378
+lifecycle_stage: deleted
+name: Bped_442T06_Li
+tags:
+  mlflow.note.content: '프로젝트 명 : MLOps Demo test개발자 : 안광혁2024.02.16 ~ '
+  project_name: MLOps Demo test
+  project_quarter: Q1-2024
+  store_dept: produce
+  team: stores-ml
